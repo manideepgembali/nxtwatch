@@ -1,5 +1,5 @@
 import {withRouter} from 'react-router-dom'
-import {Cookies} from 'js-cookie'
+import Cookies from 'js-cookie'
 import Popup from 'reactjs-popup'
 import {BsMoon, BsBrightnessHigh} from 'react-icons/bs'
 
